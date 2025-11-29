@@ -28,3 +28,5 @@ To provide a permissionless, transparent on‑chain marketplace that connects pr
 - Add off‑chain indexing (TheGraph) and a frontend UI for browsing projects.
 - Add access controls, rate limiting and security hardening (re-entrancy guards, pausability).
 - Contract Address : 0xBc942Bced7aB8900173cfEeb37B209c9d1a3B0fb
+- <img width="1920" height="780" alt="project" src="https://github.com/user-attachments/assets/2ff64e96-c94b-49e0-883f-b36cfe136175" />
+

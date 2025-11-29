@@ -27,3 +27,4 @@ To provide a permissionless, transparent on‑chain marketplace that connects pr
 - Add ERC20 support so sponsors can pledge tokens besides ETH.
 - Add off‑chain indexing (TheGraph) and a frontend UI for browsing projects.
 - Add access controls, rate limiting and security hardening (re-entrancy guards, pausability).
+- Contract Address : 0xBc942Bced7aB8900173cfEeb37B209c9d1a3B0fb
